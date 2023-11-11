@@ -1,32 +1,39 @@
-AutoClicker
+README.md
+
+# AutoClicker
+
 Um simples autoclicker em Python usando as bibliotecas PyAutoGUI, Keyboard e PySimpleGUI.
 
-Instruções de Uso
-Certifique-se de ter as bibliotecas necessárias instaladas. Você pode instalá-las executando o seguinte comando:
+## Instruções de Uso
 
-bash
-Copy code
-pip install pyautogui keyboard PySimpleGUI
-Execute o script autoclicker.py.
+1. Certifique-se de ter as bibliotecas necessárias instaladas. Você pode instalá-las executando o seguinte comando:
 
-Uma janela será aberta com a opção de escolher a velocidade de cliques (CPS - Cliques Por Segundo). Selecione a velocidade desejada no menu suspenso.
+   ```bash
+   pip install pyautogui keyboard PySimpleGUI
+   ```
 
-Clique no botão "Iniciar" para começar o autoclicker.
+2. Execute o script `autoclicker.py`.
 
-Pressione a tecla "q" a qualquer momento para parar o autoclicker.
+3. Uma janela será aberta com a opção de escolher a velocidade de cliques (CPS - Cliques Por Segundo). Selecione a velocidade desejada no menu suspenso.
 
-Notas Importantes
-Este programa foi testado apenas em um computador, e os valores correspondentes à quantidade de CPS podem variar em diferentes máquinas.
+4. Clique no botão "Iniciar" para começar o autoclicker.
 
-Velocidades disponíveis:
+5. Pressione a tecla "q" a qualquer momento para parar o autoclicker.
 
-1 CPS
-2 CPS
-3 CPS
-4 CPS
-5 CPS
-6 CPS
-7 CPS
-8 CPS
-Aviso Legal
+## Notas Importantes
+
+- Este programa foi testado apenas em um computador, e os valores correspondentes à quantidade de CPS podem variar em diferentes máquinas.
+
+- Velocidades disponíveis:
+  - 1 CPS
+  - 2 CPS
+  - 3 CPS
+  - 4 CPS
+  - 5 CPS
+  - 6 CPS
+  - 7 CPS
+  - 8 CPS
+
+## Aviso Legal
+
 O uso deste programa em jogos ou atividades online pode violar os termos de serviço. Certifique-se de usá-lo de maneira ética e de acordo com as políticas do ambiente em que está sendo executado. O desenvolvedor não é responsável por qualquer uso indevido ou consequências resultantes do uso deste software.
